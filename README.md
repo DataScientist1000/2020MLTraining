@@ -33,3 +33,12 @@ Steps:
 
 3. Embedded Methods
   a. Tree based models(DT| RF | GBM)
+
+###===============================================================
+
+## Model Deployment
+
+Newer or older versions of those specified above may break the code
+numpy>=1.18.1,<1.19.0
+pandas>=0.25.3,<0.26.0
+scikit-learn>=0.22.1,<0.23.0
